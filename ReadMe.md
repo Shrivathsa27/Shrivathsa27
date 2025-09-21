@@ -1,46 +1,34 @@
-# 👋 Hi there, I'm Shrivathsa
 
-🚀 A passionate **DevOps Engineer** with hands-on experience in automating cloud infrastructure and managing CI/CD pipelines. I specialize in tools like **Docker, Terraform, Ansible, Gitlab**, and cloud platforms including **AWS and GCP**.
+
+# 👋 Hi there, I'm Shrivathsa Rao
+
+ A passionate DevOps Engineer with hands-on experience in automating cloud infrastructure and managing CI/CD pipelines. I specialize in tools like Docker, Terraform, Ansible, Gitlab, and cloud platforms including AWS and Azure.
 
 ---
 
 ## 💼 What I'm Working On
-- 🌐 Automating multi-cloud infrastructure with **Terraform** and **GitHub Actions**
-- 🐳 Container orchestration with **Docker** and **Kubernetes**
-- ☁️ Optimizing CI/CD pipelines using **Jenkins**, **GitLab CI**, and **GitHub Actions**
-- 📈 Monitoring with **Prometheus** and **Grafana**
+- Automating multi-cloud infrastructure with **Terraform** and **GitHub Actions**
+- Container orchestration with **Docker** and **Kubernetes**
+- Optimizing CI/CD pipelines using **Jenkins**, **GitLab CI**, and **GitHub Actions**
+- Monitoring with **Prometheus** and **Grafana**
 
----
-
-## 🤝 Let’s Collaborate On
-- 🚀 Cloud automation projects (AWS, Azure, GCP)
-- 💡 Open-source DevOps tools and utilities
-- 🔧 Scalable CI/CD pipelines
-
----
 
 ## 📘 Currently Learning
-- 🔁 **Kubernetes concepts** & GitOps workflows
-- 📦 IaC best practices for **multi-cloud** deployments
-- 🛠️ Using **Terraform modules** and remote backends effectively
+-  **Kubernetes concepts** & GitOps workflows
+-  IaC best practices for **multi-cloud** deployments
+-  Using **Terraform modules** and remote backends effectively
 
 ---
 
-## 💬 Ask Me About
-- ✅ Cloud-native DevOps workflows
-- 🧩 Infrastructure automation with Terraform
-- 🐳 Docker & Kubernetes deployment strategies
-- ☁️ Multi-cloud architectures using AWS, Azure, and GCP
+## Connect With Me
+<a href="https://linkedin.com/in/shrivathsa27" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="32"></a>
+<a href="https://quora.com/profile/Shrivathsa" target="_blank"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white" height="32"></a>
+<a href="mailto:hello@shrivathsarao.site"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32"></a>
+<a href="https://shrivathsarao.site/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" height="32"></a>
 
 ---
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shrivathsa27)
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Shrivathsa)
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages & Scripting
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -72,18 +60,10 @@
 
 ---
 
-### 🧰 Featured Projects
+## Certifications
 
-| Project | Description | Tools |
-|--------|-------------|-------|
-| [🚀 Portfolio Website](https://github.com/Shrivathsa27/portfolio-devops) | Deployed via GitHub Actions, showcasing my DevOps projects | GitHub Actions, HTML/CSS |
-| [🔁 CI/CD Pipeline Template](https://github.com/Shrivathsa27/devops-cicd-template) | Scalable pipeline template for DevOps projects | Jenkins, Terraform |
-| [☁️ Multi-Cloud IaC Deployment](https://github.com/Shrivathsa27/multicloud-terraform) | Terraform setup for AWS, Azure, and GCP | Terraform, Cloud CLI |
-
----
-
-### ✍️ Dev Quote
-> “Automate everything that can be automated.” – DevOps Principle
-
----
-[![](https://visitcount.itsvg.in/api?id=Shrivathsa27&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="#"><img src="https://raw.githubusercontent.com/Shrivathsa27/shrivathsarao/main/images/AWS%20Solution%20Architect.png" height="40" alt="AWS Solutions Architect - Associate"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/Shrivathsa27/shrivathsarao/main/images/AWS%20Developer.png" height="40" alt="AWS Developer - Associate"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/Shrivathsa27/shrivathsarao/main/images/AWS%20Cloud%20Practioner.png" height="40" alt="AWS Cloud Practioner"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/Shrivathsa27/shrivathsarao/main/images/ITIL.png" height="40" alt="ITIL Foundation"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/Shrivathsa27/shrivathsarao/main/images/AWS%20reStart%20Graduate.jpeg" height="40" alt="AWS re/Start Graduate"></a>
