@@ -74,8 +74,8 @@ I work in DevOps, mostly around cloud infrastructure and CI/CD pipelines. Docker
 
 ## Certifications
 
-<a href="#"><img src="https://raw.githubusercontent.com/Shrivathsa27/shrivathsarao/main/images/AWS%20Solution%20Architect.png" height="70" alt="AWS Solutions Architect - Associate"></a>
-<a href="#"><img src="https://raw.githubusercontent.com/Shrivathsa27/shrivathsarao/main/images/AWS%20Developer.png" height="70" alt="AWS Developer - Associate"></a>
-<a href="#"><img src="https://raw.githubusercontent.com/Shrivathsa27/shrivathsarao/main/images/AWS%20Cloud%20Practioner.png" height="70" alt="AWS Cloud Practioner"></a>
-<a href="#"><img src="https://raw.githubusercontent.com/Shrivathsa27/shrivathsarao/main/images/ITIL.png" height="70" alt="ITIL Foundation"></a>
-<a href="#"><img src="https://raw.githubusercontent.com/Shrivathsa27/shrivathsarao/main/images/AWS%20reStart%20Graduate.jpeg" height="70" alt="AWS re/Start Graduate"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/Shrivathsa27/portfolio/main/images/AWS%20Solution%20Architect.png" height="70" alt="AWS Solutions Architect - Associate"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/Shrivathsa27/portfolio/main/images/AWS%20Developer.png" height="70" alt="AWS Developer - Associate"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/Shrivathsa27/portfolio/main/images/AWS%20Cloud%20Practioner.png" height="70" alt="AWS Cloud Practioner"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/Shrivathsa27/portfolio/main/images/ITIL.png" height="70" alt="ITIL Foundation"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/Shrivathsa27/portfolio/main/images/AWS%20reStart%20Graduate.jpeg" height="70" alt="AWS re/Start Graduate"></a>
