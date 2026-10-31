@@ -7,10 +7,11 @@ I work in DevOps, mostly around cloud infrastructure and CI/CD pipelines. Docker
 ---
 
 ## Working On
-- Building and running containerized services on **AWS ECS Fargate** across a **Go**, **Node.js/TypeScript** and **React** stack
-- Automating infrastructure with **Terraform** and **GitLab CI/CD**, kept consistent across dev, staging and prod
-- Observability with **Prometheus**, **Grafana**, **SigNoz** and **Sentry**
-- Leading the company-wide migration from **Jira** to **GitLab**
+- Automating multi-cloud infrastructure with **Terraform** and **GitLab CI/CD**
+- Optimizing CI/CD pipelines using **GitLab CI** and **GitHub Actions**
+- Monitoring with **Prometheus**, **Grafana**, **SigNoz**, **Sentry** and sometimes **Datadog**
+- Building and running containerized services on **AWS ECS Fargate**
+- Working across a mixed stack - **Go**, **Node.js/TypeScript**, **React** - day to day
 
 ## Learning
 - **MLOps** fundamentals and working with **LLMs**
